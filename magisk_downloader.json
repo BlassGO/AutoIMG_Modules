@@ -1,0 +1,9 @@
+{
+    "name": "Magisk Downloader",
+    "id": "magisk_downloader",
+    "description": "Download and install the latest versions of Magisk",
+    "version": "v1.0.0",
+    "author": "@BlassGO",
+    "image": "https://github.com/BlassGO/something/blob/main/Magisk_Downloader.png?raw=true",
+    "url": "https://github.com/BlassGO/something/raw/main/Magisk_Downloader.zip"
+}
